@@ -6,16 +6,15 @@
 (Aunque de vez en cuando trabajo en algun proyecto mio)
 
 :floppy_disk: Mis lista de lenguajes conocidos son:
-- 🟨 - JS 
+- 🟩 - JS 
 - 🟩 - Java  
 - 🟩 - C#
 - 🟩 - Python
 - 🟨 - Rust 
-- 🟥 - HTML
+- 🟨 - HTML
 - 🟥 - CSS 
 
 📫 Me puedes encontrar en:
-- Twitter: @BeyonFL
 - Instagram: 255bfl
 
 <!--
