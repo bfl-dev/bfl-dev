@@ -12,7 +12,7 @@
 - 🟩 - Python
 - 🟨 - Rust 
 - 🟨 - HTML
-- 🟥 - CSS 
+- 🟨 - CSS 
 
 📫 Me puedes encontrar en:
 - Instagram: 255bfl
