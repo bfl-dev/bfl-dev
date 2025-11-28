@@ -1,4 +1,4 @@
-## Hallo Everynyan. 
+## Hello. 
 
 🌱 Soy estudiante de lo que seria el equivalente de Software Engineering.
 
