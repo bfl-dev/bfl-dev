@@ -14,8 +14,7 @@
 - 🟨 - HTML
 - 🟨 - CSS 
 
-📫 Me puedes encontrar en:
-- Instagram: 255bfl
+
 
 <!--
 **bfl-dev/bfl-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
